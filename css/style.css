@@ -8,12 +8,12 @@ body {
 }
 
 h1 {
-  background-color: rgb(255,165,0);
-  color: hsl(147,50,47);
+  background-color: rgb(255 165 0);
+  color: hsl("147deg" 50% 47%);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #ff00ff:
+  background-color: #ff00ff;
 }
